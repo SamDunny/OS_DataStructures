@@ -1,2 +1,3 @@
 # OS_DataStructures
-Data structures common in operating systems
+Data structures common in operating systems  
+Written for CSCE 311 (Summer 2020)
